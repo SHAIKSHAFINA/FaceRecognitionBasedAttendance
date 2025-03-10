@@ -15,8 +15,8 @@ The system **identifies, verifies, and recognizes** individuals using a pre-trai
 
 ## **🛠️ Tech Stack**  
 - **Python** 🐍  
-- **OpenCV** 👁️ (Face Detection & Recognition)  
-- **NumPy & Pandas** 📊 (Data Handling)  
+- **OpenCV,Face-Recognition**👁️ (Face Detection & Recognition)  
+- **NumPy ** 📊 (Data Handling)  
 
 ## **📂 Project Structure**  
 ```
@@ -40,6 +40,6 @@ The system **identifies, verifies, and recognizes** individuals using a pre-trai
 ## **📊 Example Attendance Record (CSV File Format)**  
 | Name      | Time of Arrival     |  
 |-----------|--------------------|  
-| John Doe  | 09:05 AM           |  
-| Jane Smith | 09:10 AM           |  
+|Safina | 09:05 AM           |  
+| Vijaya | 09:10 AM           |  
 
