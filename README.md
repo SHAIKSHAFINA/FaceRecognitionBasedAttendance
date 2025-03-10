@@ -16,7 +16,7 @@ The system **identifies, verifies, and recognizes** individuals using a pre-trai
 ## **🛠️ Tech Stack**  
 - **Python** 🐍  
 - **OpenCV,Face-Recognition**👁️ (Face Detection & Recognition)  
-- **NumPy ** 📊 (Data Handling)  
+- **Numpy**📊 (Data Handling)  
 
 ## **📂 Project Structure**  
 ```
