@@ -5,10 +5,10 @@
 
 ## **🌟 Uniqueness of the Project**  
 Unlike traditional attendance systems that rely on manual entry, RFID cards, or fingerprint scanners, this system:  
-✅ **Uses Face Recognition** – No need for ID cards or fingerprints.  
-✅ **Automates Attendance** – Detects and marks attendance in real-time.  
-✅ **Prevents Proxy Attendance** – Ensures that only authorized individuals are marked present.  
-✅ **Stores Time of Arrival** – Records exact timestamps for attendance logs.  
+1.**Uses Face Recognition** – No need for ID cards or fingerprints.  
+2.**Automates Attendance** – Detects and marks attendance in real-time.  
+3.**Prevents Proxy Attendance** – Ensures that only authorized individuals are marked present.  
+4.**Stores Time of Arrival** – Records exact timestamps for attendance logs.  
 
 ## **🎯 Core Idea**  
 The system **identifies, verifies, and recognizes** individuals using a pre-trained face recognition model. It captures an image from a live camera feed, compares it with stored images, and marks attendance in a **CSV file** with timestamps.  
